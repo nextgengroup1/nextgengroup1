@@ -52,7 +52,7 @@ Assess maturity. Prioritize portfolios. Model value. Drive execution.
 
 ## 🌐 Trusted In
 
-**US · UK · EU · Global Enterprises**
+**Fortune 500 companies in the US · UK · EU**
 
 ---
 
