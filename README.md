@@ -2,10 +2,10 @@
 ## Practitioner-Built. Executive-Ready.
 
 Premium digital transformation tools built by the executives and IT leaders 
-who've actually done it — at scale, under pressure, in complex enterprises.
+who've done it at scale, under pressure, in complex enterprises.
 
 We cut decades of hard-won experience into ready-to-deploy frameworks, scorecards, 
-roadmaps, and guides so you can lead transformation without reinventing the wheel.
+roadmaps, and guides so you can lead your transformation without reinventing the wheel.
 
 ---
 
@@ -32,9 +32,12 @@ Enterprise-grade AI readiness assessment built for large-scale deployments
 
 ## 🎯 Built For
 
-**CTOs · CFOs · Heads of Transformation · Strategy Leads · Technology SMEs**
-
-Assess readiness. Prioritize investment. Build the business case. Drive the transformation.
+**C-Suite:** CTOs · CDOs · CISOs 
+* **Transformation & Strategy:** Heads of Transformation · PMO Directors · VP Strategy
+* **Technical & Data Leadership:** Enterprise Architects · AI/GenAI Leads · Data Governance Directors
+* **Execution:** Tech SMEs · Enterprise Consultants · Change Management Leads
+  
+Assess maturity. Prioritize portfolios. Model value. Drive execution.
 
 ---
 
