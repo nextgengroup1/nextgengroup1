@@ -1,16 +1,53 @@
-## Hi there 👋
+# Next Gen Group ♟️
+## Practitioner-Built. Executive-Ready.
 
-<!--
-**nextgengroup1/nextgengroup1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Premium digital transformation tools built by the executives and IT leaders 
+who've actually done it — at scale, under pressure, in complex enterprises.
 
-Here are some ideas to get you started:
+We cut decades of hard-won experience into ready-to-deploy frameworks, scorecards, 
+roadmaps, and guides so you can lead transformation without reinventing the wheel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🗂️ What's in the Toolkit
+
+📋 **Transformation Readiness Scorecards & Assessments**
+🗺️ **Quick-Win Roadmaps & Prioritization Frameworks**
+💼 **Business Case Templates & Investment Models**
+📊 **Industry Benchmark Data & Maturity Models**
+🎯 **Stakeholder Interview Guides & Workbooks**
+📘 **Full Method Guides & Best Practice Playbooks**
+
+---
+
+## 📦 Current Releases
+
+🔗 [AI Governance Scorecard](https://github.com/nextgengroup1/AI-Governance-Scorecard)
+Defensible AI compliance posture assessment for technical leadership teams
+
+🔗 [AI Readiness Scorecard — Enterprise](https://github.com/nextgengroup1/ai-readiness-scorecard-enterprise)
+Enterprise-grade AI readiness assessment built for large-scale deployments
+
+---
+
+## 🎯 Built For
+
+**CTOs · CFOs · Heads of Transformation · Strategy Leads · Technology SMEs**
+
+Assess readiness. Prioritize investment. Build the business case. Drive the transformation.
+
+---
+
+## 🌐 Trusted In
+
+**US · UK · EU · Global Enterprises**
+
+---
+
+> *Learn from the best — without reinventing the wheel.*
+
+---
+
+## 📩 Enterprise Licensing & Bulk Orders
+
+**→ hello@nextgengroup.com**
